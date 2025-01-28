@@ -1,0 +1,47 @@
+# Eclipse-specific files
+.metadata/
+*.log
+.classpath
+.project
+.settings/
+.target/
+.loadpath
+
+# Java-specific files
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+*.exe
+*.dll
+*.so
+*.dylib
+*.deb
+*.dmg
+*.pkg
+*.rpm
+
+# Logs
+*.log
+
+# Compiled files
+bin/
+target/
+out/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.old
+*~
